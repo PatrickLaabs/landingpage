@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Series on Eros</title>
-    <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on Eros</description>
+    <title>Series on Kubernetes Platform</title>
+    <link>https://patricklaab.github.io/series/</link>
+    <description>Recent content in Series on Kubernetes Platform</description>
     <image>
-      <title>Eros</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <title>Kubernetes Platform</title>
+      <url>https://patricklaab.github.io/images/papermod-cover.png</url>
+      <link>https://patricklaab.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.146.3</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://patricklaab.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PaperMod</title>
-      <link>http://localhost:1313/series/papermod/</link>
+      <link>https://patricklaab.github.io/series/papermod/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/papermod/</guid>
+      <guid>https://patricklaab.github.io/series/papermod/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes Guide</title>
-      <link>http://localhost:1313/series/themes-guide/</link>
+      <link>https://patricklaab.github.io/series/themes-guide/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/themes-guide/</guid>
+      <guid>https://patricklaab.github.io/series/themes-guide/</guid>
       <description></description>
     </item>
   </channel>
