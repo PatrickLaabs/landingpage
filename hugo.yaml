@@ -45,12 +45,15 @@ languages:
       profileMode:
         enabled: true
         title: Kubernetes Platform
+        subtitle: "The last Kubernetes Platform you will ever need."
         imageUrl: "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fy7ccr272d14ij5ixginv.png"
         imageTitle: Kubernetes Platform
-        imageWidth: 800
-        imageHeight: 350
+        imageWidth: 450
+        imageHeight: 250
         subtitle: "The last Kubernetes Platform you will ever need."
         buttons:
+          - name: Learn more
+            url: ""
           - name: Get in touch
             url: "mailto:patrick.laabs@me.com?subject=Inquiry&body=Hello,%20I%20would%20like%20to%20get%20in%20touch!"
 
